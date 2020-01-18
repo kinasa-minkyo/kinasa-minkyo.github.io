@@ -1,7 +1,3 @@
----
-title: Kinasa Minkyo
----
-
 
 ## Homepage
 
