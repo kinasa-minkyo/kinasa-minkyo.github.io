@@ -1,3 +1,8 @@
+---
+title: Kinasa Minkyo
+---
+
+
 ## Homepage
 
 test
