@@ -8,5 +8,5 @@
 - ### [長野市住民自治協議会](https://www.city.nagano.nagano.jp/site/jyujikyo/)
 - ### [鬼無里地区住民自治協議会](http://kinasa.jp/resident/)
 
-![子育て支援](https://www.city.nagano.nagano.jp/site/kosodate/) Format: ![子育て支援](/images/bnr_kosodate.jpg)
+![子育て支援](/images/bnr_kosodate.jpg) Format: ![子育て支援](https://www.city.nagano.nagano.jp/site/kosodate/)
 ![ながのシティプロモーション](https://nagano-citypromotion.com/local_pr/) Format: ![ながのシティプロモーション](/images/bana_06.png)
