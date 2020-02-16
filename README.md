@@ -13,9 +13,13 @@
 　　　    　長野市役所　鬼無里支所内<br>
 電話：０２６－２５６－２２１１<br>
 
+
+
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v6.0"></script>
 
-<div class="fb-share-button" data-href="https://kinasa-minkyo.github.io/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkinasa-minkyo.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
+<div class="fb-like" data-href="https://kinasa-minkyo.github.io/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
+
+<!-- <div class="fb-share-button" data-href="https://kinasa-minkyo.github.io/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkinasa-minkyo.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
