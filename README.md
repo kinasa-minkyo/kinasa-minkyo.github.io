@@ -7,7 +7,7 @@
 
 - ### [民生委員の役割](./role.md)
 - ### [地域福祉について](./tikihukushi.md)
-- ### [介護予防](./kaigoyobo)
+- ### [介護予防](./kaigo_yobo.md)
 - ### [お知らせ](./news.md)
 - ### [関係Link集](./link.md)
 
