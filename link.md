@@ -10,4 +10,5 @@
 
 [![子育て支援](images/bnr_kosodate.jpg) ](https://www.city.nagano.nagano.jp/site/kosodate/)
 [![ながのシティプロモーション](images/bana_06.png)](https://nagano-citypromotion.com/)
-[![ながの地域おこし協力隊](images/kyoryokutai.png)](https://nagano-citypromotion.com/local_pr/)
+[![ながの地域おこし協力隊](images/bn_local_pr.png)](https://nagano-citypromotion.com/local_pr/)
+[![ながの地域おこし協力隊](images/h_logo.png)](https://oshigoto.nagano.jp/index.html)
