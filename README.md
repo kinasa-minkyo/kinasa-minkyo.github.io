@@ -20,7 +20,7 @@
 
 <div class="fb-like" data-href="https://kinasa-minkyo.github.io/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
 
-<div class="fb-like" data-href="https://kinasa-minkyo.github.io/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="false"></div>
+
 
 <div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="3" data-url="https://kinasa-minkyo.github.io/" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
