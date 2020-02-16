@@ -9,4 +9,5 @@
 - ### [鬼無里地区住民自治協議会](http://kinasa.jp/resident/)
 
 [![子育て支援](images/bnr_kosodate.jpg) ](https://www.city.nagano.nagano.jp/site/kosodate/)
-[![ながのシティプロモーション](images/bana_06.png)](https://nagano-citypromotion.com/local_pr/)
+[![ながのシティプロモーション](images/bana_06.png)](https://nagano-citypromotion.com/)
+[![ながの地域おこし協力隊](images/kyoryokutai.png)](https://nagano-citypromotion.com/local_pr/)
