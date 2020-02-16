@@ -13,6 +13,8 @@
 　　　    　長野市役所　鬼無里支所内<br>
 電話：０２６－２５６－２２１１<br>
 
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="3" data-url="https://kinasa-minkyo.github.io/" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 
 
 <div id="fb-root"></div>
@@ -22,7 +24,8 @@
 
 
 
-<div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="3" data-url="https://kinasa-minkyo.github.io/" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
- <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+
+
+<a href="https://b.hatena.ne.jp/entry/s/kinasa-minkyo.github.io/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
