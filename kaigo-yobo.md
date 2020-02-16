@@ -11,4 +11,4 @@
 - #### [参考資料(地域包括ケア)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/)
 - #### [参考資料（地域包括ケアシステムの構築に関する事例集）](https://www.kaigokensaku.mhlw.go.jp/chiiki-houkatsu/)
 
-- #### [参考資料(「通いの場」の介護予防効果 検証はどこまで進んだか)](https://www.mhlw.go.jp/content/12https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/601000/000529365.pdf)
+- #### [参考資料(「通いの場」の介護予防効果 検証はどこまで進んだか)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/601000/000529365.pdf)
