@@ -20,6 +20,7 @@
 
 <div class="fb-like" data-href="https://kinasa-minkyo.github.io/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
 
-<!-- <div class="fb-share-button" data-href="https://kinasa-minkyo.github.io/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkinasa-minkyo.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
+<div class="fb-like" data-href="https://kinasa-minkyo.github.io/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="false"></div>
+<!-- <div class="fb-share-button" data-href="https://kinasa-minkyo.github.io/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkinasa-minkyo.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div> --!>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
