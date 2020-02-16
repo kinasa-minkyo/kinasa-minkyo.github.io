@@ -7,3 +7,9 @@
 4. 必要に応じ専門機関へつなぐ役割を果たします。(※専門機関と連携して活動しています。)
 
 - 民生委員・児童委員には法に基づく守秘義務があり、相談の内容や個人の状況などが部外者に漏れることはありませんので、お気軽にご相談ください。						
+
+
+[![子育て支援](images/bnr_kosodate.jpg) ](https://www.city.nagano.nagano.jp/site/kosodate/)
+[![ながのシティプロモーション](images/bana_06.png)](https://nagano-citypromotion.com/)
+[![ながの地域おこし協力隊](images/bn_local_pr.png)](https://nagano-citypromotion.com/local_pr/)
+[![ながの地域おこし協力隊](images/h_logo.png)](https://oshigoto.nagano.jp/index.html)

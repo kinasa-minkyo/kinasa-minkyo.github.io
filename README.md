@@ -14,6 +14,12 @@
 　　　    　長野市役所　鬼無里支所内<br>
 電話：０２６－２５６－２２１１<br>
 
+
+[![子育て支援](images/bnr_kosodate.jpg) ](https://www.city.nagano.nagano.jp/site/kosodate/)
+[![ながのシティプロモーション](images/bana_06.png)](https://nagano-citypromotion.com/)
+[![ながの地域おこし協力隊](images/bn_local_pr.png)](https://nagano-citypromotion.com/local_pr/)
+[![ながの地域おこし協力隊](images/h_logo.png)](https://oshigoto.nagano.jp/index.html)
+
 <div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="3" data-url="https://kinasa-minkyo.github.io/" data-color="default" data-size="small" data-count="true" style="display: none;"></div>
  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 
