@@ -9,5 +9,6 @@
 - #### [参考資料 市町村向け手引き(Ver.2)](https://www.mhlw.go.jp/content/000545093.pdf)
 - #### [参考資料(これからの地域づくり戦略)](https://kouseikyoku.mhlw.go.jp/kantoshinetsu/houkatsu/roukennkyokutyou1.pdf)
 - #### [参考資料(地域包括ケア)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/)
-- #### [参考資料(地域包括ケア事例集成)]（https://www.kaigokensaku.mhlw.go.jp/chiiki-houkatsu/files/mhlw_care_system_2014.pdf）
+- #### [参考資料（地域包括ケアシステムの構築に関する事例集）](https://www.kaigokensaku.mhlw.go.jp/chiiki-houkatsu/)
+
 - #### [参考資料(「通いの場」の介護予防効果 検証はどこまで進んだか)](https://www.mhlw.go.jp/content/12https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/601000/000529365.pdf)
