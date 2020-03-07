@@ -33,13 +33,15 @@
 
 [災害時住民支え合いマップの策定について参考サイト（長野県）](https://www.pref.nagano.lg.jp/chiiki-fukushi/kenko/fukushi/fukushi/sasaeai.html)
 
-## マップ作成に役立つツールの紹介（外部リンク）
+#### マップ作成に役立つツールの紹介（外部リンク）
 
 [OpenStreetMap Japan 自由な地図をみんなの手に](https://openstreetmap.jp/node/762)
 
-[［OSM］地図を切り出して印刷する方法](https://medium.com/openstreetmap-tips-japan/)
+[はじめてからのOpenStreetMapガイド](https://learnosm.org/ja/)
 
+- [［OSM］地図を切り出して印刷する方法](https://medium.com/openstreetmap-tips-japan/)
+- [Yahoo! Open Local Platform（YOLP）](https://map.yahoo.co.jp/promo/yolp/about.html)
+- [OpenStreetMap 関連勉強会のページ](http://www.yamasita.jp/osm/seminar/)
+- [JOSM 操作マニュアル](http://www.yamasita.jp/osm/seminar/140621_KyotoPrefecturalLibrary/JOSM_manual_0929.pdf)
 
 [地図を手軽に作成！ Mappin' Drop](https://www.pasco.co.jp/MappinDrop/)
-
-[Yahoo! Open Local Platform（YOLP）](https://map.yahoo.co.jp/promo/yolp/about.html)
