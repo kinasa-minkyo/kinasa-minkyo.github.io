@@ -15,3 +15,5 @@
 [![Ｇ空間情報センター](images/Gkukan.png)](https://www.geospatial.jp/gp_front/)
 [![一般社団法人オープン＆ビックデータ活用推進機構](images/vled.jpg)](http://www.vled.or.jp/)
 [![未踏事業](images/link_bnr01.jpg)](https://www.ipa.go.jp/jinzai/mitou/)
+[!オープン(images/osm-jp-logo.png)](https://openstreetmap.jp/)
+[![オープンストリートマップ] (images/osm-jp-logo.png)] (https://openstreetmap.jp/)
