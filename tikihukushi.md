@@ -26,3 +26,20 @@
 |----|
 | [地域の支え合い活動支援ガイド(スマートフォン用)](https://www.city.matsumoto.nagano.jp/smph/kenko/fukushi_hiroba/95029720180724125511287.html)|
 | [地域の支え合い活動支援ガイド](https://www.city.matsumoto.nagano.jp/kenko/fukushi_hiroba/95029720180724125511287.html)|
+
+## 災害に備える(外部リンク)
+
+[災害に備える民生委員・児童委員活動に関する指針（全国民生委員児童委員連合会）](https://www2.shakyo.or.jp/wp-content/uploads/2019/03/c5584275301e95dd9de71a2ec85ebbf6.pdf)
+
+[災害時住民支え合いマップの策定について参考サイト（長野県）](https://www.pref.nagano.lg.jp/chiiki-fukushi/kenko/fukushi/fukushi/sasaeai.html)
+
+## マップ作成に役立つツールの紹介（外部リンク）
+
+[OpenStreetMap Japan 自由な地図をみんなの手に](https://openstreetmap.jp/node/762)
+
+[［OSM］地図を切り出して印刷する方法](https://medium.com/openstreetmap-tips-japan/)
+
+
+[地図を手軽に作成！ Mappin' Drop](https://www.pasco.co.jp/MappinDrop/)
+
+[Yahoo! Open Local Platform（YOLP）](https://map.yahoo.co.jp/promo/yolp/about.html)

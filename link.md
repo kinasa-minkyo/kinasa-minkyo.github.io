@@ -12,7 +12,7 @@
 [![ながのシティプロモーション](images/bana_06.png)](https://nagano-citypromotion.com/)
 [![ながの地域おこし協力隊](images/bn_local_pr.png)](https://nagano-citypromotion.com/local_pr/)
 [![おしごとながの](images/h_logo.png)](https://oshigoto.nagano.jp/index.html)
+[![OpenStreetMap](images/osm-jp-logo.png)](https://openstreetmap.jp/)
 [![Ｇ空間情報センター](images/Gkukan.png)](https://www.geospatial.jp/gp_front/)
 [![一般社団法人オープン＆ビックデータ活用推進機構](images/vled.jpg)](http://www.vled.or.jp/)
 [![未踏事業](images/link_bnr01.jpg)](https://www.ipa.go.jp/jinzai/mitou/)
-[![OpenStreetMap](images/osm-jp-logo.png)](https://openstreetmap.jp/)
