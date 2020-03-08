@@ -49,7 +49,7 @@
 - [［OSM］地図を切り出して印刷する方法](https://medium.com/openstreetmap-tips-japan/)
 - [Yahoo! Open Local Platform（YOLP）](https://map.yahoo.co.jp/promo/yolp/about.html)
 - [OpenStreetMap 関連勉強会のページ](http://www.yamasita.jp/osm/seminar/)
-- [OpenStreetMap 操作マニュアル PDF](OpenStreetMap_manual.pdf)
+- [OpenStreetMap 操作マニュアル PDF](https://www.okuminavi.jp/access/pdf/OpenStreetMap_manyuaru.pdf)
 - [JOSM 操作マニュアル PDF](http://www.yamasita.jp/osm/seminar/140621_KyotoPrefecturalLibrary/JOSM_manual_0929.pdf)
 
 
