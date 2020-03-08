@@ -33,7 +33,7 @@
 
 [災害時住民支え合いマップの策定について参考サイト（長野県）](https://www.pref.nagano.lg.jp/chiiki-fukushi/kenko/fukushi/fukushi/sasaeai.html)
 
-#### マップ作成に役立つツールの紹介（外部リンク）
+#### 福祉マップ作成に役立つツールの紹介（外部リンク）
 
 [OpenStreetMap Japan 自由な地図をみんなの手に](https://openstreetmap.jp/node/762)
 
@@ -44,10 +44,13 @@
 - [OpenStreetMap 関連勉強会のページ](http://www.yamasita.jp/osm/seminar/)
 - [JOSM 操作マニュアル PDF](http://www.yamasita.jp/osm/seminar/140621_KyotoPrefecturalLibrary/JOSM_manual_0929.pdf)
 
-[QGISマニュアル](https://qgis.org/ja/docs/index.html)
 
 [地図を手軽に作成！ Mappin' Drop](https://www.pasco.co.jp/MappinDrop/)
 
 #### 一般的なGISの使い方（外部リンク）
 - [地域づくりに地図やGISを使おう（国土交通省）pdf](http://www.mlit.go.jp/common/001035477.pdf)
 - [GIS人材育成の資料：GISを使おう、研修手引き（国土交通省） PDF](http://www.mlit.go.jp/common/001037721.pdf)
+
+ #### [【参考】QGIS（フリーソフト）紹介](https://qgis.org/ja/site/)
+
+ [QGISマニュアル](https://qgis.org/ja/docs/index.html)
