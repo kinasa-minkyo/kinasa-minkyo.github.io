@@ -18,3 +18,6 @@
 - #### [参考資料（地域包括ケアシステムの構築に関する事例集）](https://www.kaigokensaku.mhlw.go.jp/chiiki-houkatsu/)
 
 - #### [介護予防マニュアル(改訂版:平成24年3月)について](https://www.mhlw.go.jp/topics/2009/05/tp0501-1.html)
+
+
+- ###### [※PDF形式のファイルをご利用するためには，「Adobe（R） Reader」が必要です。お持ちでない方は、Adobeのサイトからダウンロード（無償）してください。](https://acrobat.adobe.com/jp/ja/acrobat/pdf-reader.html)

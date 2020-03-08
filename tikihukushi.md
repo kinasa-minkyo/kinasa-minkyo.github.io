@@ -42,6 +42,12 @@
 - [［OSM］地図を切り出して印刷する方法](https://medium.com/openstreetmap-tips-japan/)
 - [Yahoo! Open Local Platform（YOLP）](https://map.yahoo.co.jp/promo/yolp/about.html)
 - [OpenStreetMap 関連勉強会のページ](http://www.yamasita.jp/osm/seminar/)
-- [JOSM 操作マニュアル](http://www.yamasita.jp/osm/seminar/140621_KyotoPrefecturalLibrary/JOSM_manual_0929.pdf)
+- [JOSM 操作マニュアル PDF](http://www.yamasita.jp/osm/seminar/140621_KyotoPrefecturalLibrary/JOSM_manual_0929.pdf)
+
+[QGISマニュアル](https://qgis.org/ja/docs/index.html)
 
 [地図を手軽に作成！ Mappin' Drop](https://www.pasco.co.jp/MappinDrop/)
+
+#### 一般的なGISの使い方（外部リンク）
+- [地域づくりに地図やGISを使おう（国土交通省）pdf](http://www.mlit.go.jp/common/001035477.pdf)
+- [GIS人材育成の資料：GISを使おう、研修手引き（国土交通省） PDF](http://www.mlit.go.jp/common/001037721.pdf)
