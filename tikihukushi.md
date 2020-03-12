@@ -60,6 +60,6 @@
 - [地域づくりに地図やGISを使おう（国土交通省）pdf](http://www.mlit.go.jp/common/001035477.pdf)
 - [GIS人材育成の資料：GISを使おう、研修手引き（国土交通省） PDF](http://www.mlit.go.jp/common/001037721.pdf)
 
- #### [【参考】QGIS（フリーソフト）紹介](https://qgis.org/ja/site/)
+ [【参考】QGIS（フリーソフト）紹介](https://qgis.org/ja/site/)
 
  [QGISマニュアル](https://qgis.org/ja/docs/index.html)
