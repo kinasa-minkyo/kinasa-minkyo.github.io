@@ -56,6 +56,7 @@
 [地図を手軽に作成！ Mappin' Drop](https://www.pasco.co.jp/MappinDrop/)
 
 #### 一般的なGISの使い方（外部リンク）
+- [GIS実習オープン教材](http://gis-oer.csis.u-tokyo.ac.jp/)
 - [地域づくりに地図やGISを使おう（国土交通省）pdf](http://www.mlit.go.jp/common/001035477.pdf)
 - [GIS人材育成の資料：GISを使おう、研修手引き（国土交通省） PDF](http://www.mlit.go.jp/common/001037721.pdf)
 
