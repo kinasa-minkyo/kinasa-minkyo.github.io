@@ -52,7 +52,7 @@
 - [OpenStreetMap 操作マニュアル PDF](https://www.okuminavi.jp/access/pdf/OpenStreetMap_manyuaru.pdf)
 - [JOSM 操作マニュアル PDF](http://www.yamasita.jp/osm/seminar/140621_KyotoPrefecturalLibrary/JOSM_manual_0929.pdf)
 
-
+[データホスティングと地図APIで自分だけの地図を](https://maptiler.jp/)
 [地図を手軽に作成！ Mappin' Drop](https://www.pasco.co.jp/MappinDrop/)
 
 #### 一般的なGISの使い方（外部リンク）
@@ -63,3 +63,7 @@
  [【参考】QGIS（フリーソフト）紹介](https://qgis.org/ja/site/)
 
  [QGISマニュアル](https://qgis.org/ja/docs/index.html)
+
+ [QGIS初心者質問グループ](https://groups.google.com/forum/#!forum/qgisshitumon01)
+
+ [Webブラウザで動くインタラクティブ、ダイナミックな地図を作る](https://www.kkaneko.jp/dblab/index.html#S17)
